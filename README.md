@@ -1,3 +1,3 @@
 # Phase-1-Project
 ## Introduction
-A number of companies have been creating original content. Therefore, Microsoft wants to do the same. However, they do not have Knowledge on how to go about film creation.
+A number of companies have been creating original content. Therefore, Microsoft wants to do the same. However, they do not have Knowledge on how to go about film creation. In this project I use movie gross data to provide insights on how Microsoft can go about this new venture. The movie gross data contains data on various movies, the studios they were produced in and the earnings both domestically and in other countries. Descriptive analysis and data visualisation has been key in exploring this data in order to provide optimal recommendations to ensure Microsoft capitalizes on film creation.
