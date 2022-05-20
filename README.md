@@ -1,4 +1,4 @@
-# Phase-1-Project
+# Phase 1 Project
 ## Student Name: Elsie Lovell Kiprop (DS15FI)
 ## Introduction
 A number of companies have been creating original content. Therefore, Microsoft wants to do the same. However, they do not have Knowledge on how to go about film creation. The task given is to find suitable recommendations on the types of films that Microsoft can create. Having been presented various datasets, the requirement is to pick the datasets required to perform data analysis that will provide optimal insights.
